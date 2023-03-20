@@ -1,0 +1,13 @@
+1. Ler a Primeira Nota
+2. Ler a Segunda Nota
+3. Calcular as médias das Notas
+4. Mostrar a Média Calculada
+5. Digite o Total de Aulas
+6. Digite o nº de Faltas
+7. Calcular a % de frequência
+8. Mostre a % de frequência
+9. Se (media>=50 e frequência>=75%) {
+    entao Aluno aprovado
+}  senao {
+    entao Aluno Reprovado
+}
